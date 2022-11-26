@@ -11,4 +11,4 @@ Just Replace your qb-inventory to sc-inventory EZ And Also Most Important Rename
 Support Join Our Discord :- https://discord.gg/WjX6ZArMMJ
 
 # Credits
-For Whole Written Code Of Lua/html qb-core qb-inventory Scorpion-Development
+lj-inventory & Scorpion-Development
